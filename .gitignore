@@ -1,4 +1,4 @@
 # Ignore environment variable files
 .env
 # Ignore sample folder
-sample/
+# sample/
