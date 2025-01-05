@@ -2,3 +2,5 @@
 .env
 # Ignore sample folder
 samples/
+# Ignore private folder
+private/
