@@ -1,2 +1,6 @@
 # Ignore environment variable files
 .env
+# Ignore sample folder
+samples/
+# Ignore private folder
+private/
