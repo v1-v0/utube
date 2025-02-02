@@ -2,6 +2,7 @@
 
 ## repo conda
 
+- ipykernel
 - python-dotenv
 - psycopg2
 - isodate
