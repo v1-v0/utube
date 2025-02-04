@@ -1,11 +1,57 @@
-so the applications are of course we start by wanting to know how olfaction works its last sense that we don't understand everything else we understand pretty well vision audition heat and touch and taste but we still don't really get how olfaction works and from this work we actually also found out that at least flies so fluff lies in addition to looking at the shape of the molecule at their sniffing they also look at the vibrational spectrum which already has made us come up with designs for bettering noses not using the biological component at all but changing it to quantum nanotubes quantum dots I should say and nanotubes and things like this just like we don't make jet engines out of feathers eventually we will not need the biology to do any of these things 
+Good afternoon. I'm a research scientist at the Massachusetts Institute of Technology's Center for Bits and Atoms. I know the name of the Center is very provocative, and indeed, we do a lot of things with a lot of bits, including bio-bits. And today, I want to talk to you about bio-nanotechnology. This is an emerging science where we learn from how biology does things, and then we steal, copy, emulate, mimic the ways of biology - first by understanding, and then by co-opting, and we make engineering out of it.
 
-the Qualcomm XPrize which is to make exactly that tricorder that Spock was holding which in two-and-a-half years from now will have to be able to put it in the size of a cell phone give it to a hundred people and over the period of two weeks smell these people without interacting with them directly and be able to tell with 85 percent success rate 15 different diseases 
+What drives us mostly is curiosity. We've recognized that to understand something, just like Richard Feynman said, you have to first build it. If you don't know how to build something, you don't understand it. If we don't know how to build a photosynthetic solar cell, we don't really understand photosynthesis very well. If we don't know how to build an electronic nose that can smell cancer, then we don't really understand olfaction.
 
-if you have to take something out of this today I think that the message is that nature already knows how to fly how to make electricity how to compute how to detect odors etc and if nature has shown it to be doable then it is it unavoidable that we will do it this isn't cold fusion cold fusion may or may not work we don't know we've never seen it in nature but to make a device that can fit in a thing like this and sniff cancer yes absolutely it's doable not only doable it's unavoidable 
+So, the best way I know of to explain what we do is to give you examples. We started by wanting to make a device that can convert sunlight into electricity, just like plants do. And we were looking at how nature does it, and we realized that if we take the photosynthetic proteins from plants and put them on electrodes, we can generate electricity.
 
-we already have a grant based on this work to go the next level which is the Star Trek replicator yes believe it or not they are paying me money to build the machine that you can push a button and the cup of tea will materialize out of the 118 elements the periodic table without involving any tea plants or ceramics or anything just atom by atom put it there not quite there yet when state phase 1 but within our lifetime this will happen 
+Now, this isn't as efficient as silicon solar panels, but what's interesting is that these proteins are self-healing; they repair themselves. So, if you have a device like this, it will last forever - or at least, for a very long time.
 
-we're making machines that self replicate now this may be scary and you probably right to feel like you need some ownership of this we scientists are sitting out there in our labs how do you get to how do you get to participate the best way I know of is to ask questions it's the ultimate equalizer scientists love questions that's what drives us 
+The next step was to ask: can we make something that's even more efficient? Can we take the proteins and put them on nano-structures that will allow us to absorb more light? And the answer is yes. We've made devices now that are much more efficient than the first generation.
 
-you can engage a scientist by just asking a good question and recognising the importance of questions we have created the molecular frontiers inquiry prize where we award five boys and five girls every year a prize for the best question asked we have the panel including 30 Nobel laureates judging this every time in Stockholm in Sweden and some of the questions are fantastic for instance somebody asked why aren't plants black that's a much better question than asking why are plants green
+But what's really interesting is that this technology has the potential to change the world. The number one way out of poverty is nighttime illumination. If you have nighttime illumination, you can educate yourself. And the number one way that people who have no electricity - the poorest people in the world - have for nighttime illumination is also the most expensive way to get light: they use paraffin candles and kerosene, which is also awful for their health.
+
+So, we're working on a project now where we want to make solar panels out of grass clippings. Ideally, what we would like to do is send somebody just a bag of material that they need to stabilize these proteins, and it's non-hazardous, and it's cheap, and inexpensive. And then, with very low-skilled labor, they can go outside their own community, gather some things, and make their own solar power.
+
+So, changing the equation from being only consumers but to producers - essentially making solar power, making electricity as easy as cooking. And we're almost there.
+
+Now, you'd think: how is that related to smelling cancer? Well, it's essentially the same problem again. We're taking something that exists in nature - namely, the receptors out of human or dog noses - and then, while before we were taking real plants and extracting them, in this case, everything is synthetic. We know the code from DNA that encodes for the genes that encode for the proteins, and we design everything in the lab.
+
+I push a button on my computer, and a couple of days later, I have the folded protein that I need to make an electronic nose. So, this was given to us as a challenge: can you make this? Now, some of the audience - the older ones, perhaps - will remember this: when I was 11 years old, on a big, small black and white TV in Athens, I saw this guy holding this device for the first time. I saw Star Trek, and I was captivated and terrified at the same time.
+
+And I wondered: how did he do this? And that, at 11 years old, it dawned on me - can't be by light; can't be by radio, because it goes around corners and sniffs out where the people are in the weather. And I realized back then: this has got to be a nose of some sort; it's going to smell the things that it's looking for.
+
+So, we look at how nature detects scent, and it ends up being that you have humans - at least - with 391 receptors stuck right here. Not here; this is just there to hydrate and warm up the air when you're sniffing something. It is your brain; it's directly your brain that does that, gives you this experience.
+
+There's a piece of what's called the olfactory bulb that sticks through the skull, through tiny little holes, and sticks - literally hangs in the breeze. So, whenever you have something, you're actually directly interacting molecules with your brain.
+
+We copied this system, and it looks like this right now. It's about this big, and we call it the nano-nose. Just like the dog or the human, it doesn't know any chemistry; it's not an analytical device; it doesn't tell you what things are made of; it just tells you what they smell like.
+
+So, the point of this is: this is the first time we have something like this. There have been many electronic noses before, but in this case, we're not doing analysis; we're not saying: oh, we're trying to find the bomb in the airport, and we're not exactly sure what the bomb material smells like.
+
+We're saying: if I have a dog, and I trained the dog to find the rose, then the dog will be able to find me another rose in the flower store. That's all we do. The dog does not know any chemistry; the dog is not doing analysis; doesn't know; doesn't need to know what the chemicals are of the scent.
+
+But the dog can try to find cancer at a very early stage. So, that's what we're doing. The applications are: of course, we start by wanting to know how olfaction works - it's the last sense that we don't understand; everything else, we understand pretty well - vision, audition, heat, and touch, and taste.
+
+But we still don't really get how olfaction works. And from this work, we actually also found out that at least flies - in addition to looking at the shape of the molecule when they're sniffing - they also look at the vibrational spectrum, which already has made us come up with designs for better noses, not using the biological component at all, but changing it to quantum nanotubes, quantum dots, I should say, and nanotubes, and things like this.
+
+Just like we don't make jet engines out of feathers, eventually, we will not need the biology to do any of these things. We're participating in the Qualcomm XPrize, which is to make exactly that tricorder that Spock was holding - which, in two-and-a-half years from now, will have to be able to put it in the size of a cell phone, give it to a hundred people, and over the period of two weeks, smell these people without interacting with them directly, and be able to tell, with an 85 percent success rate, 15 different diseases.
+
+It will be blind - and we hope we could do this. So, if you have to take something out of this today, I think that the message is: nature already knows how to fly; how to make electricity; how to compute; how to detect odors, etc. And if nature has shown it to be doable, then it is - it's unavoidable that we will do it.
+
+This isn't cold fusion; cold fusion may or may not work; we don't know; we've never seen it in nature. But to make a device that can fit in a thing like this and sniff cancer? Yes, absolutely - it's doable; not only doable, it's unavoidable. We'll get there, whether we like it or not.
+
+We already have - whether we're stealing the designs, we're using biological components - but what really biology does is: it allows us atomic precision control over the 118 elements of the periodic table. Anything that biology can do right now, we're learning to do better, faster, cheaper - and we will go to places where biology never dreamed of.
+
+Now, where does that mean? What does the future look like? Well, already, we have a grant based on this work to go to the next level, which is the Star Trek replicator. Yes, believe it or not - they are paying me money to build the machine that you can push a button, and the cup of tea will materialize out of the 118 elements of the periodic table, without involving any tea plants or ceramics or anything - just atom by atom; put it there.
+
+Not quite there yet - we're still in phase one - but within our lifetime, this will happen. You know what else we're doing? We're making machines that self-replicate. Now, this may be scary, and you're probably right to feel like you need some ownership of this.
+
+We scientists are sitting out there in our labs - how do you get to participate? The best way I know of is to ask questions; it's the ultimate equalizer. Scientists love questions - that's what drives us. You can engage a scientist by just asking a good question.
+
+And recognizing the importance of questions, we have created the Molecular Frontiers Inquiry Prize, where we award five boys and five girls every year a prize for the best question asked. We have a panel, including 30 Nobel laureates, judging this every time in Stockholm, Sweden.
+
+And some of the questions are fantastic - for instance, somebody asked: why aren't plants black? That's a much better question than asking: why are plants green? And what it did was generate real research by real universities.
+
+So, please - these are my funders; I have to put this up there; they pay the bills. Please inspire anybody under 18 to go to this website and submit their questions. The deadline for this year is in May next year, and we're looking forward to the entries.
+
+And that's the best way to engage in this process. Thank you very much.
