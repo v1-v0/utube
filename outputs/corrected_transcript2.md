@@ -1,0 +1,25 @@
+Good afternoon. I'm a research scientist at the Massachusetts Institute of Technology's Center for Bits and Atoms. I know the name of the Center is very provocative, and indeed, we do a lot of things with a lot of bits, including bio-bits. And today, I want to talk to you about bio-nanotechnology. This is an emerging science where we learn from how biology does things, and then we steal, copy, emulate, mimic the ways of biology - first by understanding, and then by co-opting, and we make engineering out of it.
+
+What drives us mostly is curiosity. We've recognized that to understand something, just like Richard Feynman said, you have to first build it. If you don't know how to build something, you don't understand it. If we don't know how to build a photosynthetic solar cell, we don't really understand photosynthesis very well. If we don't know how to build an electronic nose that can detect cancer, then we don't really understand olfaction.
+
+So, the best way I know of to explain what we do is to give you examples. We started by wanting to make a device that can convert sunlight into electricity, just like plants do. And we did it by taking the photosynthetic proteins from plants and putting them into a device that can generate electricity.
+
+Now, this may not be as efficient as silicon solar panels, but what's important here is that we're using biology to create devices that can solve real-world problems. And the number one problem that we're trying to solve is energy poverty. There are over a billion people in the world who don't have access to electricity, and they rely on candles and kerosene for lighting, which is not only expensive but also bad for their health.
+
+So, what if we could create a device that can generate electricity from sunlight using just a few simple materials? That's what we're working on. We've developed a technology that uses photosynthetic proteins to generate electricity, and we're working on scaling it up so that it can be used in real-world applications.
+
+Another example is the electronic nose. We've developed a device that can detect cancer using an array of sensors that mimic the way the human nose works. And this device is not just limited to detecting cancer - it can also be used to detect other diseases, such as tuberculosis and diabetes.
+
+Now, you may be wondering how this relates to the Star Trek tricorder. Well, the tricorder was a device that could diagnose any disease just by waving it over a person's body. And while we're not quite there yet, we're working on developing devices that can detect diseases using non-invasive methods.
+
+In fact, we're participating in the Qualcomm XPrize, which is a competition to develop a device that can diagnose 15 different diseases using a non-invasive method. And we're hoping to win it with our electronic nose technology.
+
+So, if you have to take something out of this today, I think the message is that nature already knows how to fly, how to make electricity, how to compute, how to detect odors, etc. And if nature has shown it to be doable, then it is unavoidable that we will do it. This isn't cold fusion - cold fusion may or may not work, we don't know, we've never seen it in nature. But to make a device that can fit in a thing like this and sniff cancer? Yes, absolutely, it's doable. Not only doable, it's unavoidable. We'll get there whether we like it or not.
+
+We already have a grant based on this work to go to the next level, which is the Star Trek replicator. Yes, believe it or not, they are paying me money to build the machine that you can push a button and a cup of tea will materialize out of the 118 elements of the periodic table without involving any tea plants or ceramics or anything - just atom by atom, put it there. Not quite there yet, we're in phase one, but within our lifetime, this will happen.
+
+You know what else we're doing? We're making machines that self-replicate. Now, this may be scary, and you probably have the right to feel like you need some ownership of this. We scientists are sitting out there in our labs - how do you get to participate? The best way I know of is to ask questions. It's the ultimate equalizer. Scientists love questions - that's what drives us. You can engage a scientist by just asking a good question.
+
+And recognizing the importance of questions, we have created the Molecular Frontiers Inquiry Prize, where we award five boys and five girls every year a prize for the best question asked. We have a panel, including 30 Nobel laureates, judging this every time in Stockholm, Sweden. And some of the questions are fantastic - for instance, somebody asked, "Why aren't plants black?" That's a much better question than asking, "Why are plants green?" And what it did was generate real research by real universities.
+
+So, please, these are my funders, I have to put this up there - they pay the bills. And please inspire anybody under 18 to go to this website and submit their questions. The deadline for this year is in May next year, and we're looking forward to the entries. And that's the best way to engage in this process. Thank you very much.
