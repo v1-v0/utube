@@ -1,0 +1,83 @@
+surface plasmon resonance or SPR has
+emerged as a powerful optical detection
+technique for studying label-free
+biomolecular interactions in real time
+within a variety of diverse applications
+such as life science electrochemistry
+chemical vapor detection food and
+environmental safety and beyond due to
+its simplicity
+nearly every commercially available SPR
+instrument uses a detection scheme
+called the crush bond configuration in
+this setup a light source passes through
+a prism reflects off the backside of the
+censorship surface and into a detector
+at a certain incident angle known as the
+resonance angle light is absorbed by the
+electrons in the metal film of the
+sensor chip causing them to resonate
+these resonating electrons are also
+known as surface plasmons which are
+sensitive to their surrounding
+environment
+the result is an intensity loss in the
+reflected beam which appears as a dark
+band and can be seen as a dip in the spr
+reflection intensity curve the shape and
+location of the SPR dip can then be used
+to convey information about the sensor
+surface SPR technology is commonly
+utilized for the study of molecular
+binding interactions between free
+analyte molecules and solution and probe
+molecules which are linked to or
+immobilize on to the sensor surface as a
+molecular binding event takes place the
+angular position of this dark band
+shifts and a shift in the reflectivity
+curve can also be observed this is a
+direct method of detection which avoids
+the drawbacks of labels another powerful
+aspect of spr technology is in its
+ability to observe the time-dependent
+binding interaction between molecules by
+monitoring this change in SPR response
+over time researchers can study the
+kinetics of molecular binding events in
+the first example an analyte with low
+affinity to the immobilize ligand on the
+sensor surface is introduced and
+therefore negligible binding interaction
+is observed however when an analyte with
+higher affinity to
+mobilize Ligon is introduced into the
+system then binding events are more
+readily observed initially there are
+many binding sites available resulting
+in a rapid increase in SPR response that
+occurs as analyte begins to bind to the
+ligand while sample is continually
+delivered to the sensor surface analyte
+molecules continue to bind in the number
+of available binding sites decreases
+corresponding to a decrease in binding
+rate as the SPR response levels off the
+system approaches equilibrium and the
+number of molecules binding and
+unbinding become equal when no more
+analyte is introduced into the system
+the molecules will continue to unbind
+resulting in a decrease in SPR response
+the association constant ka can be
+extracted from the behavior of the
+binding response and likewise the
+dissociation constant KD can be
+extracted from the unbinding response
+the ratio of these two rate constants
+can yield the binding affinity of the
+system the information that can be
+obtained from SPR serves as a simple
+precise and label-free technique for
+quantitative analysis of molecular
+binding interactions
