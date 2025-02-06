@@ -4,8 +4,7 @@
 
 - ipykernel
 - python-dotenv
-- psycopg2
-- isodate
+- httpx
 
 ## repo conda-forge
 
