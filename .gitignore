@@ -1,3 +1,4 @@
 # Ignore environment variable files
 .env
 client_secret.json
+token.pickle
